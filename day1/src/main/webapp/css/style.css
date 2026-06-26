@@ -1,0 +1,12 @@
+body{
+    
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+}
+.root{
+    background-color: aqua;
+}
+div.title{
+    margin: 0 auto;
+}
